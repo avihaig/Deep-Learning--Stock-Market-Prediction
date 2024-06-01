@@ -1,7 +1,3 @@
-Here's the updated README file for your GitHub repository, reflecting the use of PyTorch:
-
----
-
 # Stock Prediction Using LSTM and Mamba Model
 
 This repository contains the code and resources for comparing the effectiveness of two advanced models, the Mamba Model and Long Short-Term Memory (LSTM) networks, for stock trading prediction. The comparison is based on their architecture, performance, resource usage, and suitability for capturing long-term dependencies in sequential data.
@@ -67,18 +63,10 @@ The Mamba Model demonstrated better performance and predictive accuracy in stock
 
 ## Authors
 
-- Avi Giuili - avigiuili@mail.tau.ac.il
+- Avihai Giuili - avigiuili@mail.tau.ac.il
 - Omer Bahary - omerbahary@mail.tau.ac.il
 - Almog Cohen - almogc1@mail.tau.ac.il
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 Special thanks to our instructors and colleagues who provided valuable feedback and support throughout this project.
-
----
-
-This README file now correctly reflects the use of PyTorch for your project.
